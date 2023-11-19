@@ -1,6 +1,11 @@
 # Brutal-Scw
 Script Brutal this comeback 🥵
 
+<p align="center">
+
+  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kasih+Stars+Dong+Kan+Kamu+Baik+^_^" alt="UwU">
+  <p
+    
 # Info
 
 <p align="center">
@@ -28,8 +33,3 @@ python run.py
 
 Selesai >_
 ```
-# Subs
-<p align="center">
-
-  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=SUBSCRIBE+CHANNEL+Vindra+ID" alt="UwU">
-  <p
